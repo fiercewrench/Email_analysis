@@ -62,10 +62,3 @@ This is a readme file.
 	each word is a node and any two-word pairs in a window are considered have an undirected edge. Based on the graph, we can calculated the weight for each node (word). The most important words will be extracted and used as keywords.
 
 	• Use textRank to find the top n frequent words in the doc compared with IF-IDF algorithm
-
-
-- OSU_ADVISING
-	transcript
-
-- Application_Deadlines
-	list of programs I will apply and the deadlines. After finished applying, the check mark will be marked "Done"
